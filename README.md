@@ -1,16 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fair
-=============================================================================================================================
+<div align="center">
 
-want to be a full stack
------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=FF8FC7&center=true&vCenter=true&width=440&lines=hi%2C+i'm+Fair+%F0%9F%8E%80;frontend+dev+in+progress;efin.finance+intern;still+debugging+my+life+lol" alt="typing animation" />
 
-I am an intern at efin.finance who is determined to improve myself every day
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=panisa0124-beep&label=views&color=FF8FC7&style=flat-square" alt="profile views" />
+
+</div>
+
+<br/>
+
+**about me**
+just a girl learning to build cool stuff on the internet. currently interning @ efin.finance, chasing that frontend dev era. still figuring things out but that's kinda the fun part
+
+<br/>
+
+**what i'm into** ⋆｡°✩
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FF8FC7" />
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=FF8FC7" />
 </p>
 
-### Socials
+<br/>
 
-<p align="left"> <a href="https://www.github.com/panisa0124-beep" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/panisa0124" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://discord.com/users/fairdiiwaa24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+**find me here** 🔗
+
+<p align="left">
+  <a href="https://www.github.com/panisa0124-beep" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FF8FC7" /></a>
+  <a href="https://www.gitlab.com/panisa0124" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=gitlab&logoColor=FF8FC7" /></a>
+  <a href="https://discord.com/users/fairdiiwaa24" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=FF8FC7" /></a>
+</p>
+
+<br/>
+
+**buy me a boba instead of coffee** 🧋
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/yourname" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-000000?style=flat-square&logo=buymeacoffee&logoColor=FF8FC7" /></a>
+  <a href="https://ko-fi.com/yourname" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-000000?style=flat-square&logo=ko-fi&logoColor=FF8FC7" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+<sub>thanks for scrolling this far 🎧</sub>
+</div>
