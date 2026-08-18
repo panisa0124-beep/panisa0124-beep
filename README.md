@@ -10,12 +10,13 @@
 
 <br/>
 
-**about me**
-just a girl learning to build cool stuff on the internet. currently interning @ efin.finance, chasing that frontend dev era. still figuring things out but that's kinda the fun part
+### 🌸 about me
+
+just a girl learning to build cool stuff on the internet. currently an **intern at efin.finance**, chasing that **frontend developer** era. still figuring things out, but that's kinda the fun part — believes **consistency beats perfection** and that every bug is just a plot twist
 
 <br/>
 
-**what i'm into** ⋆｡°✩
+### 🛠️ what i'm into
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FF8FC7" />
@@ -34,7 +35,16 @@ just a girl learning to build cool stuff on the internet. currently interning @ 
 
 <br/>
 
-**find me here** 🔗
+### 📊 github stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=panisa0124-beep&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FF8FC7&icon_color=FF8FC7&text_color=ffffff" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panisa0124-beep&theme=dark&hide_border=true&background=00000000&ring=FF8FC7&fire=FF8FC7&currStreakLabel=FF8FC7" alt="GitHub streak" height="160" />
+</p>
+
+<br/>
+
+### 🌐 find me here
 
 <p align="left">
   <a href="https://www.github.com/panisa0124-beep" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FF8FC7" /></a>
@@ -44,7 +54,7 @@ just a girl learning to build cool stuff on the internet. currently interning @ 
 
 <br/>
 
-**buy me a boba instead of coffee** 🧋
+### 🧋 buy me a boba instead of coffee
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/yourname" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-000000?style=flat-square&logo=buymeacoffee&logoColor=FF8FC7" /></a>
